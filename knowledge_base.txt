@@ -1,0 +1,10 @@
+What is the capital of France? Paris.
+How long does it take to travel to the moon? About 3 days.
+What is the color of the sky? Blue.
+Who invented the light bulb? Thomas Edison.
+What is the purpose of a firewall? To monitor and control incoming and outgoing network traffic.
+How does a VPN work? A VPN creates a secure, encrypted connection over a less secure network.
+What are the benefits of cloud computing? Scalability, cost-efficiency, and flexibility.
+Explain machine learning. Machine learning is a field of artificial intelligence that enables systems to learn from data without explicit programming.
+What is the function of an operating system? An operating system manages computer hardware and software resources.
+Tell me about the history of the internet. The internet originated from ARPANET in the late 1960s.

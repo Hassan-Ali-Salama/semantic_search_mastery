@@ -1,0 +1,11 @@
+# Virtual environment directory
+venv_mastery/
+
+# Python specific
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+
+# FAISS and Pickle files (generated embeddings)
+*.bin
+*.pkl
