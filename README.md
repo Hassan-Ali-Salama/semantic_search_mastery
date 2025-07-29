@@ -68,17 +68,25 @@ To exit the program, type `خروج` (Arabic for exit) or `exit`.
 
 ## 📂 Project Structure
 .
-├── main.py                 # Main script for the semantic search system
-├── knowledge_base.txt      # Text file containing the search contexts (your knowledge base)
-├── .gitignore              # Specifies files and directories to be ignored by Git
-├── README.md               # This documentation file
-└── screenshots/            # Directory for project screenshots
+├── main.py                                  # Main script for the semantic search system
+
+├── knowledge_base.txt                        # Text file containing the search contexts (your knowledge base)
+
+├── .gitignore                                # Specifies files and directories to be ignored by Git
+
+├── README.md                                 # This documentation file
+
+└── screenshots/                              # Directory for project screenshots
+
 ├── english_query_example.png
+
 └── arabic_query_example.png
 
 Files below are generated automatically and are ignored by .gitignore
-├── faiss_index.bin # FAISS index for storing embeddings
-└── original_sentences.pkl # Pickle file storing original contexts
+
+├── faiss_index.bin                        # FAISS index for storing embeddings
+
+└── original_sentences.pkl                 # Pickle file storing original contexts
 
 ## 📚 Additional Resources
 
