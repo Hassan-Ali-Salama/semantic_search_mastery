@@ -1,11 +1,17 @@
 # Virtual environment directory
 venv_mastery/
+venv/ # In case you named it just 'venv'
 
-# Python specific
+# Python specific compiled files and temporary directories
 __pycache__/
 *.pyc
 *.ipynb_checkpoints/
 
 # FAISS and Pickle files (generated embeddings)
-*.bin
-*.pkl
+# These are large and can be regenerated from source data.
+faiss_index.bin
+original_sentences.pkl
+
+# Any other large or temporary files you might create
+*.log
+*.tmpl
